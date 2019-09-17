@@ -1,0 +1,16 @@
+
+{
+  "posts": [
+    {
+      "name": "Henderson Briggs",
+      "email": "henderson.briggs@geeknet.net",
+      "password": "23derd*334",
+      "address": "121 National Drive, Cotopaxi, Michigan, 8240",
+      "company": "GEEKNET",
+      "age": "30",
+      "eyecolor": "blue",
+      "balance": "3585"
+    }
+  ],
+  "user": {}
+}
